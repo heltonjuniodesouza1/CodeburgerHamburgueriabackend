@@ -1,6 +1,7 @@
 {
   "name": "CodeburgerHamburgueriabackend",
   "version": "1.0.0",
+  "type": "module",
   "description": "<h1 align=\"center\">Back-End CodeBurguer</h1>",
   "main": "src/server.js",
   "scripts": {
