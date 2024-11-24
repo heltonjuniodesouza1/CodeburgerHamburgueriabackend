@@ -27,7 +27,7 @@ Gostaria de agradecer ao meu mentor, Rodolfo do Dev Club, pelo seu apoio, orient
 
 <h4>Link:</h4>
 
->Repoditório: https://github.com/heltonjuniodesouza2
+>Repoditório: https://github.com/heltonjuniodesouza1
 
 >Linkedin: https://www.linkedin.com/in/helton-junio/
 
